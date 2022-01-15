@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. C++ is _____________ programming?",
+      "Q2. Which of the following is extension for header file in c++",
+      "Q3. Which of the following is not a type of contructor in cpp ?",
+      "Q4. Approach by c++ is :  ?"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "options": [
+
+      [" B and C",
+        "procedural",
+        "object oriented",
+        "functional"
+      ],
+      ["hg",
+        "h",
+        "cpp",
+        "hpp"
+      ],
+      ["Default Constructor",
+        "Parameterised",
+        "Friend Constructor",
+        "Copy Constructor"
+      ],
+      ["top-down",
+        "Bottom-up",
+        "RL",
+        "LR"
+      ]
+    ]
+  }

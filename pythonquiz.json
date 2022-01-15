@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. Who developed Python ?",
+      "Q2. Which type of Programming does Python support?",
+      "Q3. Is Python Case Sensitive when dealing with Identifiers?",
+      "Q4. Which keyword used for Functions in python?"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "options": [
+
+      ["Guido van Rossum",
+        "Wick van Rossum",
+        "Johnny van Sin",
+        "Niene Storm"
+      ],
+      ["Object oriented Programming",
+        "All of the mentioned",
+        "Functional programming",
+        "Structred Programming"
+      ],
+      ["None of the mentioned.",
+        "Machine Depended",
+        "No",
+        "Yes"
+      ],
+      ["Define",
+        "def",
+        "Fun",
+        "none"
+      ]
+    ]
+  }

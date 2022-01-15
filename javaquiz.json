@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. Which of the is not a keyword in JAVA?",
+      "Q2. What is the size of the long Variable",
+      "Q3. What is the default value of a char variable ?",
+      "Q4. Static binding uses which information for Binding ?"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "options": [
+
+      ["Boolean",
+        "Static",
+        "void",
+        "private"
+      ],
+      ["8 Bit",
+        "64 Bit",
+        "16 Bit",
+        "32 Bit"
+      ],
+      ["0",
+        "Null",
+        "u0000",
+        "not defined"
+      ],
+      ["object",
+        "type",
+        "Both",
+        "None"
+      ]
+    ]
+  }
